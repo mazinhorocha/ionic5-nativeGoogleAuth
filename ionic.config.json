@@ -1,0 +1,7 @@
+{
+  "name": "google-auth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
