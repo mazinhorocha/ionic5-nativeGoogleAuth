@@ -1,7 +1,8 @@
 {
   "name": "google-auth",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
